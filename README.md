@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Md. Shahidul Islam Sakib 👋</h1>
 
-<!--
-**Saqib-17/Saqib-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Passionate CSE Student | Frontend Developer | IoT Enthusiast</i><br/>
+  <i>Lifelong Learner | 🇧🇩</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+🎓 I'm pursuing BSc in Computer Science and Engineering at **East Delta University**.  
+🌟 I'm skilled in **C, C++, JavaScript, React, Node.js, MongoDB, and Arduino**.  
+🛠️ I enjoy building real-world projects involving **Web Development** and **IoT systems**.
+
+---
+
+### 🚀 Projects
+
+Here are a few cool things I’ve built:
+
+- 🔹 [**QuizWhiz**](https://quiz-whiz-frontend.vercel.app/) – Web-based educational quiz platform for students.  
+- 🔹 **Smart Street Light System** – IoT project using ESP8266, IR sensors, and real-time dashboard.  
+- 🔹 **Fitness Center Member System** – Menu-driven program using C++ for managing members via linked lists and arrays.
+
+---
+
+### 🧠 Currently Learning
+
+- Full-stack development with **MERN stack**
+- Mobile development using **React Native**
+- Cloud and CI/CD with **Firebase & GitHub Actions**
+
+---
+
+### 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&theme=radical" width="45%"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [shahidul.sakib17@gmail.com](mailto:shahidul.sakib17@gmail.com)
+- 🌐 Portfolio: Coming soon
+- 🔗 GitHub: [github.com/Saqib-17](https://github.com/Saqib-17)
+
+---
+
+> “Consistency beats talent when talent doesn't work hard.”
