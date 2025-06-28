@@ -73,9 +73,10 @@ Here are a few cool things I’ve built:
 
 ### 📫 Connect With Me
 
-- 📧 Email: [shahidul.sakib17@gmail.com](mailto:shahidul.sakib17@gmail.com)
-- 🌐 Portfolio: Coming soon
-- 🔗 GitHub: [github.com/Saqib-17](https://github.com/Saqib-17)
+- 📧 Email: [shahidul.sakib17@gmail.com](mailto:shahidul.sakib17@gmail.com)  
+- 🌐 Portfolio: Coming soon  
+- 🔗 GitHub: [github.com/Saqib-17](https://github.com/Saqib-17)  
+- 📘 Facebook: [fb.com/shahidul.sakib17](https://facebook.com/shahidul.sakib17)
 
 ---
 
