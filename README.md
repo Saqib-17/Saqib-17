@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm Md. Shahidul Islam Sakib 👋</h1>
 
+<!-- 🆕 Typing animation added -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;IoT+Enthusiast;CSE+Student+from+Bangladesh&font=Fira+Code&center=true&width=435&height=30&duration=3000&pause=1000&color=36BCF7" />
+</p>
+
 <p align="center">
   <i>Passionate CSE Student | Frontend Developer | IoT Enthusiast</i><br/>
   <i>Lifelong Learner | 🇧🇩</i>
@@ -49,9 +54,19 @@ Here are a few cool things I’ve built:
 
 ### 📈 GitHub Stats
 
+<!-- 🆕 Improved theme and layout -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&border_radius=10&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
+</p>
+
+---
+
+### 👀 Visitors
+
+<!-- 🆕 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saqib-17&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -64,4 +79,7 @@ Here are a few cool things I’ve built:
 
 ---
 
-> “Consistency beats talent when talent doesn't work hard.”
+<!-- 🆕 Quote styling centered -->
+<p align="center">
+  <b><i>“Consistency beats talent when talent doesn't work hard.”</i></b>
+</p>
