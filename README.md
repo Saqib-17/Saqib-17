@@ -2,7 +2,7 @@
 
 <!-- 🆕 Typing animation added -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;IoT+Enthusiast;CSE+Student+from+Bangladesh&font=Fira+Code&center=true&width=435&height=30&duration=3000&pause=1000&color=36BCF7" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;CSE+Student+from+Bangladesh&font=Fira+Code&center=true&width=435&height=30&duration=3000&pause=1000&color=36BCF7" />
 </p>
 
 <p align="center">
