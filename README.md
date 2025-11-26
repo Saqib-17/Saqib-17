@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>Passionate CSE Student | Frontend Developer | IoT Enthusiast</i><br/>
+  <i>Passionate CSE Student | Frontend Developer |
   <i>Lifelong Learner | 🇧🇩</i>
 </p>
 
