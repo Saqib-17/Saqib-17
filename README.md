@@ -15,7 +15,7 @@
 ### 💻 About Me
 
 🎓 I'm pursuing BSc in Computer Science and Engineering at **East Delta University**.  
-🌟 I'm skilled in **C, C++, JavaScript, React, Node.js, MongoDB, and Arduino**.  
+🌟 I'm skilled in **C, C++, JavaScript, React, Tailwind, Next.js , Node.js, MongoDB, Firebase, Netlify , Vercel and Arduino**.  
 🛠️ I enjoy building real-world projects involving **Web Development** and **IoT systems**.
 
 ---
