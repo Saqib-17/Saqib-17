@@ -20,13 +20,13 @@
 
 ### 🚀 Projects
 
-- 🔹 [**QuizWhiz**](https://quiz-whiz-frontend.vercel.app/) – Web-based educational quiz platform.  
-- 🔹 **Smart Street Light System** – IoT project using ESP8266, IR sensors & dashboard.  
-- 🔹 **Fitness Center Member System** – Menu-driven C++ program using linked lists & arrays.
-- 🔹 [**Flower Mart**](https://flower-mart.netlify.app/) – A clean, responsive flower e-commerce website.  
-- 🔹 [**Green Earth**](https://green-earth-ebon.vercel.app/) – Eco-awareness and sustainability platform.  
-- 🔹 [**Agri Shield**](https://agri-shield-xi.vercel.app/) – Smart agriculture solution.  
-- 🔹 **Portfolio Website** – https://saqib-portfolio-omega.vercel.app/
+-  [**QuizWhiz**](https://quiz-whiz-frontend.vercel.app/) – Web-based educational quiz platform.  
+-  **Smart Street Light System** – IoT project using ESP8266, IR sensors & dashboard.  
+-  **Fitness Center Member System** – Menu-driven C++ program using linked lists & arrays.
+-  [**Flower Mart**](https://flower-mart.netlify.app/) – A clean, responsive flower e-commerce website.  
+-  [**Green Earth**](https://green-earth-ebon.vercel.app/) – Eco-awareness and sustainability platform.  
+-  [**Agri Shield**](https://agri-shield-xi.vercel.app/) – Smart agriculture solution.  
+-  **Portfolio Website** – https://saqib-portfolio-omega.vercel.app/
 
 ---
 
