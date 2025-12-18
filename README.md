@@ -27,7 +27,7 @@
 -  [**Green Earth**](https://green-earth-ebon.vercel.app/) – Eco-awareness and sustainability platform.  
 -  [**Agri Shield**](https://agri-shield-xi.vercel.app/) – Smart agriculture solution.  
 -  **Portfolio** -https://replit.com/@saqib17shahidul/Sakib-Portfolio-1
-                 – https://saqib-portfolio-omega.vercel.app/
+-  **Portfolio** – https://saqib-portfolio-omega.vercel.app/
 
 ---
 
