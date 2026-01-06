@@ -26,7 +26,7 @@
 -  [**Flower Mart**](https://flower-mart.netlify.app/) – A clean, responsive flower e-commerce website.  
 -  [**Green Earth**](https://green-earth-ebon.vercel.app/) – Eco-awareness and sustainability platform.  
 -  [**Agri Shield**](https://agri-shield-xi.vercel.app/) – Smart agriculture solution.  
--  **Portfolio** -[(https://saqib-portfolio.up.railway.app/)](https://sakib-portfolio-1--saqib17shahidul.replit.app)
+-  **Portfolio** - https://saqib-portfolio.up.railway.app/
 -  **Portfolio** – https://saqib-portfolio-omega.vercel.app/
 
 ---
