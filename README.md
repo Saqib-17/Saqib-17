@@ -26,8 +26,7 @@
 -  [**Flower Mart**](https://flower-mart.netlify.app/) – A clean, responsive flower e-commerce website.  
 -  [**Green Earth**](https://green-earth-ebon.vercel.app/) – Eco-awareness and sustainability platform.  
 -  [**Agri Shield**](https://agri-shield-xi.vercel.app/) – Smart agriculture solution.  
--  **Portfolio** - https://saqib-portfolio.up.railway.app/
--  **Portfolio** – https://saqib-portfolio-omega.vercel.app/
+-  **Portfolio** - https://saqibdevportfolio.vercel.app/
 
 ---
 
@@ -54,7 +53,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: **shahidul.sakib17@gmail.com**  
-- 🌐 Portfolio: **https://saqib-portfolio-omega.vercel.app/**  
+- 🌐 Portfolio: **https://saqibdevportfolio.vercel.app/**  
 - 🔗 GitHub: **https://github.com/Saqib-17**  
 - 📘 Facebook: **https://www.facebook.com/SaqibMuhammad.17/**  
 
