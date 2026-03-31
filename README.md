@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Passionate CSE Student | Frontend Developer | Lifelong Learner | 🇧🇩</i>
+  <i>Passionate CSE Student | Mern Stack Developer | Lifelong Learner | 🇧🇩</i>
 </p>
 
 ---
