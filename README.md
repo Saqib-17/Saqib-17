@@ -1,64 +1,50 @@
-<h1 align="center">Hi there, I'm Md. Shahidul Islam Sakib 👋</h1>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=230&section=header&text=SAQIB&fontSize=90&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=20&descAlignY=68" width="100%"/> <br/> <img src="https://img.shields.io/badge/DEV_TEAM_CO--LEAD-NexGenix-9333EA?style=for-the-badge&labelColor=0F2027"/> <img src="https://img.shields.io/badge/STATUS-Open_for_Freelance-36BCF7?style=for-the-badge&labelColor=0F2027"/> <img src="https://komarev.com/ghpvc/?username=Saqib-17&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mern+Stack+Developer;CSE+Student+from+Bangladesh&font=Fira+Code&center=true&width=435&height=30&duration=3000&pause=1000&color=36BCF7" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <i>Passionate CSE Student | Mern Stack Developer | Lifelong Learner | 🇧🇩</i>
-</p>
+Portfolio GitHub Gmail Facebook
 
----
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:9333EA&height=4&width=100%"/> <br/> <table width="100%"> <tr> <td width="60%" valign="top">
+👨‍💻 Who I Am
+> whoami
 
-### 💻 About Me
+Md. Shahidul Islam Sakib
+MERN Stack Developer & Dev Team Co-Lead @ NexGenix
+(CUET's IT Business Incubator)
 
-🎓 I'm pursuing BSc in Computer Science and Engineering at **East Delta University**.  
-🌟 Skilled in **C, C++, JavaScript, React, Tailwind, Next.js, Node.js, Express.js, MongoDB, Firebase, React Native, Expo, Netlify, Vercel and Arduino**.  
-🛠️ Passionate about **Web Development**, **IoT systems**, and building real-world applications.
+Final semester BSc in CSE
+East Delta University, Chittagong, BD
+— thesis remaining, everything else done ✅
 
----
+Fluent in: JavaScript, C++, English, বাংলা
 
-### 🚀 Projects
+I build full-stack web apps and IoT systems that solve real problems — not just tutorial clones. Currently shipping production features at NexGenix while wrapping up my degree.
 
--  [**QuizWhiz**](https://quiz-whiz-frontend.vercel.app/) – Web-based educational quiz platform.  
--  **Smart Street Light System** – IoT project using ESP8266, IR sensors & dashboard.  
--  **Fitness Center Member System** – Menu-driven C++ program using linked lists & arrays.
--  [**Flower Mart**](https://flower-mart.netlify.app/) – A clean, responsive flower e-commerce website.  
--  [**Green Earth**](https://green-earth-ebon.vercel.app/) – Eco-awareness and sustainability platform.  
--  [**Agri Shield**](https://agri-shield-xi.vercel.app/) – Smart agriculture solution.  
--  **Portfolio** - https://saqibdevportfolio.vercel.app/
+</td> <td width="40%" valign="top" align="center">
+⚡ Quick Facts
+	
+🎓	Final-sem CSE student
+💼	Dev Team Co-Lead, NexGenix
+🌍	Chittagong, Bangladesh
+🟢	Available immediately
+🤝	Freelance / contract ready
+</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:36BCF7&height=4&width=100%"/>
+🚀 Featured Builds
+<table width="100%"> <tr> <td width="33%" valign="top"> <h3>🧠 <a href="https://quiz-whiz-frontend.vercel.app/">QuizWhiz</a></h3> Web-based educational quiz platform. <br/><sub>React • Firebase</sub> </td> <td width="33%" valign="top"> <h3>🌱 <a href="https://green-earth-ebon.vercel.app/">Green Earth</a></h3> Eco-awareness & sustainability platform. <br/><sub>React • Tailwind</sub> </td> <td width="33%" valign="top"> <h3>🌾 <a href="https://agri-shield-xi.vercel.app/">Agri Shield</a></h3> Smart agriculture solution. <br/><sub>MERN Stack</sub> </td> </tr> <tr> <td width="33%" valign="top"> <h3>💐 <a href="https://flower-mart.netlify.app/">Flower Mart</a></h3> Responsive flower e-commerce site. <br/><sub>React • Netlify</sub> </td> <td width="33%" valign="top"> <h3>💡 Smart Street Light</h3> IoT system with ESP8266, IR sensors & live dashboard. <br/><sub>Arduino • IoT</sub> </td> <td width="33%" valign="top"> <h3>🏋️ Fitness Center System</h3> Menu-driven member manager built on linked lists. <br/><sub>C++</sub> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:9333EA&height=4&width=100%"/> <div align="center">
+🛠️ Arsenal
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,html,css,c,cpp,arduino,git,github,vercel,netlify&perline=9&theme=dark"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:36BCF7&height=4&width=100%"/> <div align="center">
+📈 The Numbers
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=9333EA&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-17&theme=radical&hide_border=true&background=0D1117&ring=9333EA&fire=36BCF7"/> <img src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=radical&no-bg=true&row=1&margin-w=15&column=7"/> </div>
 
----
+🐍 Want the animated contribution snake seen on many profiles? Add platane/snk as a GitHub Action on your Saqib-17/Saqib-17 repo — it generates a live snake eating your contribution graph and updates it daily. Say the word and I'll write the workflow file for you.
 
-### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo)
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: **shahidul.sakib17@gmail.com**  
-- 🌐 Portfolio: **https://saqibdevportfolio.vercel.app/**  
-- 🔗 GitHub: **https://github.com/Saqib-17**  
-- 📘 Facebook: **https://www.facebook.com/SaqibMuhammad.17/**  
-
----
-
-<p align="center">
-  <b><i>“Consistency beats talent when talent doesn't work hard.”</i></b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:9333EA&height=4&width=100%"/> <div align="center">
+📫 Reach Out
+Channel	Link
+📧 Email	shahidul.sakib17@gmail.com
+🌐 Portfolio	saqibdevportfolio.vercel.app
+🔗 GitHub	github.com/Saqib-17
+📘 Facebook	SaqibMuhammad.17
+<br/>
+<i>"Consistency beats talent when talent doesn't work hard."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:2C5364,100:0F2027&height=150&section=footer"/> </div>
