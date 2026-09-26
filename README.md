@@ -1,219 +1,227 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:8338EC,100:00F5FF&height=230&section=header&text=SAQIB&fontSize=90&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=20&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,60:292522,100:D97745&height=220&section=header&text=SAQIB&fontSize=85&fontColor:F3EFE6&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20ENGINEER%20IN%20PROGRESS&descSize=16&descAlignY=65&descColor=E7B69B" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/DEV_TEAM_CO--LEAD-NexGenix-8338EC?style=for-the-badge&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/DEAN'S_LIST-x3-00F5FF?style=for-the-badge&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/STATUS-Open_for_Freelance-FF006E?style=for-the-badge&labelColor=0D0221"/>
-<img src="https://komarev.com/ghpvc/?username=Saqib-17&style=for-the-badge&color=8338EC&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/MERN%20STACK-DEVELOPER-D97745?style=flat-square&labelColor=292522" />
+<img src="https://img.shields.io/badge/DEV%20TEAM-CO--LEAD-292522?style=flat-square&labelColor=292522" />
+<img src="https://img.shields.io/badge/DEAN'S%20LIST-5%C3%97-D97745?style=flat-square&labelColor=292522" />
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-292522?style=flat-square&labelColor=292522" />
 
 <br/><br/>
 
-<a href="https://saqibdevportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=00F5FF"/></a>
-<a href="https://github.com/Saqib-17"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FF006E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
-<a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=8338EC"/></a>
-<a href="https://www.facebook.com/SaqibMuhammad.17/"><img src="https://img.shields.io/badge/Facebook-0D0221?style=for-the-badge&logo=facebook&logoColor=FF006E"/></a>
+<a href="https://saqib-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logo=vercel&logoColor=F3EFE6" /></a>
+<a href="https://github.com/Saqib-17"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=F3EFE6" /></a>
+<a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=D97745" /></a>
+<a href="https://www.facebook.com/SaqibMuhammad.17/"><img src="https://img.shields.io/badge/FACEBOOK-171717?style=for-the-badge&logo=facebook&logoColor=F3EFE6" /></a>
+
+<br/><br/>
+
+*Building useful things, solving problems, and learning through code.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D97745&height=2&section=header" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8338EC,100:FF006E&height=4&width=100%"/>
+## 01 / About Me
+
+```bash
+$ whoami
+```
+
+I'm **Md. Shahidul Islam Sakib**, a Computer Science and Engineering graduate-in-progress from East Delta University, Bangladesh.
+
+- **Role:** MERN Stack Developer & Development Team Co-Lead
+- **Experience:** NexGenix LTD, CUET IT Business Incubator
+- **Academic recognition:** Dean's List recipient ×5
+- **Interests:** Full-stack development, software engineering, and computer vision
+- **Currently researching:** Vehicle detection under foggy conditions
+
+I've developed and deployed 10+ full-stack applications, earned Intern of the Month recognition, and progressed to a team leadership role during my internship.
 
 <br/>
 
-<table width="100%">
+## 02 / Experience
+
+### MERN Stack Developer → Development Team Co-Lead
+**NexGenix LTD · CUET IT Business Incubator**
+
+`Nov 2025 – Mar 2026`
+
+- Promoted to Development Team Co-Lead within two months.
+- Recognized as Intern of the Month.
+- Developed and deployed 10+ full-stack applications using the MERN stack and Next.js.
+- Worked on frontend architecture, API integration, backend functionality, and deployment.
+
+<br/>
+
+## 03 / Selected Work
+
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### 👨‍💻 Who I Am
+### 🎓 Undergraduate Thesis
 
-```
-> whoami
+**Multi-Stage Vehicle Detection Under Foggy Conditions**
 
-Md. Shahidul Islam Sakib
-MERN Stack Developer — promoted to Dev Team Co-Lead
-@ NexGenix LTD (CUET's IT Business Incubator)
+A comparative study of YOLOv8s and YOLOv10s for vehicle detection in foggy environments.
 
-BSc in CSE, East Delta University (2019 – 2026)
-Dean's List honoree — 3 consecutive semesters, 3.50+ GPA
+- Model training and comparison
+- Precision, recall, and mAP evaluation
+- Computer vision and object detection
 
-Fluent in: JavaScript, C, C++, English, বাংলা (native)
-```
-
-Shipped **10+ production full-stack apps** during my internship,
-earned *Intern of the Month*, and got promoted to team lead within
-two months. Currently wrapping up my undergraduate thesis on
-foggy-condition vehicle detection.
+`Python` `YOLOv8` `YOLOv10` `Computer Vision`
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### ⚡ Quick Facts
+### 🌐 Aspire Internship Portal
 
-| | |
-|:---|:---|
-| 🎓 | BSc CSE, East Delta University |
-| 💼 | MERN Dev & Co-Lead, NexGenix |
-| 🏆 | Dean's List ×3 · Intern of the Month |
-| 🌍 | Chattogram, Bangladesh |
-| 🤝 | Freelance / contract ready |
+An official public-facing internship portal.
+
+- Built the frontend and integrated APIs
+- Developed and deployed the website
+- Focused on responsive UI and functionality
+
+`Next.js` `React` `Tailwind CSS` `EmailJS`
 
 </td>
 </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8338EC,100:00F5FF&height=4&width=100%"/>
-
-## 💼 Professional Experience
-
-**MERN Stack Developer → Development Team Co-Lead**
-*NexGenix LTD, IT Business Incubator, CUET* · Nov 2025 – Mar 2026
-
-- 📈 Promoted to **Development Team Co-Lead** within two months, based on performance and leadership
-- 🏅 **Intern of the Month** recognition
-- 🚀 Designed, developed & deployed **10+ production-level full-stack applications** using the MERN stack and Next.js
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8338EC,100:FF006E&height=4&width=100%"/>
-
-## 🚀 Projects & Research
-
-<table width="100%">
 <tr>
-<td width="33%" valign="top">
-<h3>🎓 Undergraduate Thesis</h3>
-<b>Multi-Stage Vehicle Detection Under Foggy Conditions</b>
-<br/>A comparative study of YOLOv8s vs YOLOv10s.
-<ul>
-<li>Trained & compared both models for vehicle detection</li>
-<li>Evaluated via precision, recall & mAP</li>
-</ul>
+<td width="50%" valign="top">
+
+### 🧠 [QuizWhiz](https://quiz-whiz-frontend.vercel.app/)
+
+An educational quiz platform with web and mobile experiences.
+
+- Interactive quiz-based learning
+- Subject-based question sets
+- User authentication and backend functionality
+
+`React` `Node.js` `Express` `MongoDB` `Firebase`
+
+[Frontend](https://quiz-whiz-frontend.vercel.app/) · [Backend](https://quiz-whiz-backend.vercel.app/)
+
 </td>
-<td width="33%" valign="top">
-<h3>🌐 Aspire Internship Program</h3>
-Official public-facing internship portal.
-<ul>
-<li>Architected UI structure & integrated APIs</li>
-<li>Built & deployed the full site solo</li>
-</ul>
-<sub>Next.js • React • Tailwind CSS • EmailJS</sub>
-</td>
-<td width="33%" valign="top">
-<h3>🧠 <a href="https://quiz-whiz-frontend.vercel.app/">QuizWhiz</a></h3>
-Educational web & mobile quiz platform.
-<ul>
-<li>Interactive quiz-based learning UI</li>
-<li>Dashboards + full backend logic</li>
-</ul>
-<sub>React • Tailwind • Node.js • Express • MongoDB • Firebase Auth</sub>
+<td width="50%" valign="top">
+
+### 🌱 [AgriShield](https://agri-shield-xi.vercel.app/)
+
+A smart agriculture solution designed to support agricultural activities through a web-based platform.
+
+`Next.js` `React` `Tailwind CSS` `Firebase`
+
+[Explore project](https://agri-shield-xi.vercel.app/)
+
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>🗂️ Other builds</b></summary>
-<br/>
+<summary><b>More projects</b></summary>
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| [Green Earth](https://green-earth-ebon.vercel.app/) | Eco-awareness & sustainability platform | React, Tailwind |
-| [Agri Shield](https://agri-shield-xi.vercel.app/) | Smart agriculture solution | MERN |
-| [Flower Mart](https://flower-mart.netlify.app/) | Responsive flower e-commerce site | React, Netlify |
-| Smart Street Light System | IoT with ESP8266, IR sensors & live dashboard | Arduino, IoT |
-| Fitness Center Member System | Menu-driven member manager on linked lists | C++ |
+| Project | Description | Technologies |
+|---|---|---|
+| [Green Earth](https://green-earth-ebon.vercel.app/) | Environmental awareness and sustainability | React, Tailwind CSS |
+| [Flower Mart](https://flower-mart.netlify.app/) | Responsive flower e-commerce website | React |
+| Smart Street Light | Sensor-based automatic lighting system | Arduino Nano, IR sensor, relay |
+| Fitness Center Member System | Menu-driven member management application | C++ |
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8338EC,100:00F5FF&height=4&width=100%"/>
+<br/>
 
-## 🎓 Education
-
-| Institution | Program | Period | Result |
-|:--|:--|:--|:--|
-| East Delta University | BSc in Computer Science and Engineering | 2019 – 2026 | Dean's List ×3, 3.50+ GPA |
-| CDA Public College | HSC (Science) | 2019 – 2021 | GPA 5.00 / 5.00 |
-| Nasirabad Govt. High School | SSC (Science) | 2017 – 2019 | GPA 4.67 / 5.00 |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8338EC,100:FF006E&height=4&width=100%"/>
+## 04 / Tech Stack
 
 <div align="center">
 
-## 🛠️ Arsenal
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,nodejs,express,mongodb,firebase,git,github,vercel,netlify,js,c,cpp,html,css&perline=9&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,mongodb,firebase,git,github,vercel,netlify,figma,c,cpp,html,css&perline=9&theme=dark" />
 
 </div>
 
-| Category | Skills |
-|:--|:--|
-| **Frontend** | Next.js, React.js, Tailwind CSS, DaisyUI |
-| **Backend** | Node.js, Express.js, MongoDB, Firebase |
-| **Deployment** | Git, GitHub, REST APIs, Vercel, Netlify, cPanel, Environment Config |
-| **Other** | Responsive Web Design, Figma, API Integration, MS Office, Google Workspace |
-| **Languages** | JavaScript, C, C++ |
+### What I work with
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8338EC,100:00F5FF&height=4&width=100%"/>
-
-## 🏆 Achievements
-
-- 🏅 **Dean's List Recognition** — 3.50+ GPA for three consecutive semesters
-- 🥇 **Intern of the Month** — Aspire Internship Program, IT Business Incubator
-- 📜 **Participation Certificate** — EDU HackFest 2025
-- 🎤 **Host & Facilitator** — Industry-Oriented Skills & Innovation Workshop
-
-## 🌟 Extracurricular
-
-- **Workshop Host & Facilitator** — Industry-Oriented Skills & Innovation Workshop: hosted and facilitated sessions on practical technical & innovation skills, coordinating discussions between students and industry professionals
-- **Graphic Designer, EDU Meraki Program (2023)** — designed posters, placards & promotional material for cultural events, boosting visibility and participation
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8338EC,100:FF006E&height=4&width=100%"/>
-
-<div align="center">
-
-## 📈 The Numbers
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&theme=synthwave&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-17&theme=synthwave&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=tokyonight&no-bg=true&row=1&margin-w=15&column=7"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8338EC,100:00F5FF&height=4&width=100%"/>
-
-<div align="center">
-
-### 🌐 Beyond the Code
-
-<img src="https://img.shields.io/badge/English-Fluent-8338EC?style=flat-square&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/বাংলা-Native-00F5FF?style=flat-square&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/🎮_Gaming-FF006E?style=flat-square&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/🎬_Movies-8338EC?style=flat-square&labelColor=0D0221"/>
-<img src="https://img.shields.io/badge/✈️_Travelling-00F5FF?style=flat-square&labelColor=0D0221"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8338EC,100:FF006E&height=4&width=100%"/>
-
-<div align="center">
-
-## 📫 Reach Out
-
-| Channel | Link |
-|:--|:--|
-| 📧 Email | sakib17shahidul@gmail.com |
-| 🌐 Portfolio | [saqibdevportfolio.vercel.app](https://saqibdevportfolio.vercel.app/) |
-| 🔗 GitHub | [github.com/Saqib-17](https://github.com/Saqib-17) |
-| 💼 LinkedIn | *(add your profile link)* |
-| 📘 Facebook | [SaqibMuhammad.17](https://www.facebook.com/SaqibMuhammad.17/) |
+| Area | Technologies |
+|---|---|
+| Frontend | React.js, Next.js, Tailwind CSS, DaisyUI |
+| Backend | Node.js, Express.js, MongoDB, Firebase |
+| Languages | JavaScript, C, C++ |
+| Tools | Git, GitHub, Figma, REST APIs |
+| Deployment | Vercel, Netlify, cPanel |
+| Other | Responsive design, API integration, MS Office, Google Workspace |
 
 <br/>
 
-### <i>"Consistency beats talent when talent doesn't work hard."</i>
+## 05 / Education
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8338EC,100:FF006E&height=150&section=footer"/>
+| Institution | Qualification | Period | Achievement |
+|---|---|---|---|
+| East Delta University | BSc in Computer Science and Engineering | 2022–2026 | Dean's List ×5 |
+| CDA Public College | HSC, Science | 2019–2021 | GPA 5.00/5.00 |
+| Nasirabad Govt. High School | SSC, Science | 2017–2019 | GPA 4.67/5.00 |
+
+<br/>
+
+## 06 / Achievements & Activities
+
+- **Dean's List Recognition ×5** — East Delta University.
+- **Intern of the Month** — Internship recognition.
+- **Development Team Co-Lead** — Promoted within two months at NexGenix LTD.
+- **EDU HackFest 2025** — Participation certificate.
+- **Workshop Host & Facilitator** — Industry-Oriented Skills & Innovation Workshop.
+- **Graphic Designer** — EDU Meraki Program, 2023.
+
+<br/>
+
+## 07 / GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&hide_border=true&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&ring_color=D97745" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&hide_border=true&bg_color=171717&title_color=D97745&text_color=F3EFE6" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=171717&ring=D97745&fire=D97745&currStreakLabel=D97745&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=999999" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 08 / Beyond the Code
+
+Outside software development, I enjoy gaming, movies, travelling, and exploring creative ideas through design.
+
+- **Languages:** English and Bengali
+- **Interests:** Gaming, movies, travelling, technology, and design
+- **Location:** Chattogram, Bangladesh
+
+<br/>
+
+## 09 / Let's Connect
+
+I'm open to discussing software development, collaborating on projects, and exploring professional opportunities.
+
+<div align="center">
+
+<a href="https://saqib-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-D97745?style=for-the-badge&logo=vercel&logoColor=171717" /></a>
+
+<a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/Send%20Me%20an%20Email-292522?style=for-the-badge&logo=gmail&logoColor=F3EFE6" /></a>
+
+<br/><br/>
+
+*"Consistency beats talent when talent doesn't work hard."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,60:292522,100:D97745&height=130&section=footer" width="100%" />
 
 </div>
