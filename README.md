@@ -159,19 +159,19 @@ A smart agriculture solution designed to support agricultural activities through
 <br/>
 
 
-## 09 / Let's Connect
+##09 / Let's Connect
 
 I'm open to discussing software development, collaborating on projects, and exploring professional opportunities.
 
 <div align="center">
 
-<a href="[https://saqibdevportfolio.vercel.app/](https://saqibdevportfolio.vercel.app/)](https://saqibdevportfolio.vercel.app/)"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-D97745?style=for-the-badge&logo=vercel&logoColor=171717" /></a>
+<a href="https://saqibdevportfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-D97745?style=for-the-badge&logo=vercel&logoColor=171717" /></a>
 
 <a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/Send%20Me%20an%20Email-292522?style=for-the-badge&logo=gmail&logoColor=F3EFE6" /></a>
 
 <br/><br/>
 
-*"Consistency beats talent when talent doesn't work hard."*
+"Consistency beats talent when talent doesn't work hard."
 
 <br/>
 
