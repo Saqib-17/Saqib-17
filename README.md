@@ -155,26 +155,6 @@ A smart agriculture solution designed to support agricultural activities through
 
 <br/>
 
-## 05 / Education
-
-| Institution | Qualification | Period | Achievement |
-|---|---|---|---|
-| East Delta University | BSc in Computer Science and Engineering | 2022–2026 | Dean's List ×5 |
-| CDA Public College | HSC, Science | 2019–2021 | GPA 5.00/5.00 |
-| Nasirabad Govt. High School | SSC, Science | 2017–2019 | GPA 4.67/5.00 |
-
-<br/>
-
-## 06 / Achievements & Activities
-
-- **Dean's List Recognition ×5** — East Delta University.
-- **Intern of the Month** — Internship recognition.
-- **Development Team Co-Lead** — Promoted within two months at NexGenix LTD.
-- **EDU HackFest 2025** — Participation certificate.
-- **Workshop Host & Facilitator** — Industry-Oriented Skills & Innovation Workshop.
-- **Graphic Designer** — EDU Meraki Program, 2023.
-
-<br/>
 
 ## 07 / GitHub Analytics
 
@@ -196,15 +176,6 @@ A smart agriculture solution designed to support agricultural activities through
 
 <br/>
 
-## 08 / Beyond the Code
-
-Outside software development, I enjoy gaming, movies, travelling, and exploring creative ideas through design.
-
-- **Languages:** English and Bengali
-- **Interests:** Gaming, movies, travelling, technology, and design
-- **Location:** Chattogram, Bangladesh
-
-<br/>
 
 ## 09 / Let's Connect
 
