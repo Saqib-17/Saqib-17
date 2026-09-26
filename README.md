@@ -165,7 +165,7 @@ I'm open to discussing software development, collaborating on projects, and expl
 
 <div align="center">
 
-<a href="[https://saqib-portfolio-omega.vercel.app/](https://saqibdevportfolio.vercel.app/)"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-D97745?style=for-the-badge&logo=vercel&logoColor=171717" /></a>
+<a href="[https://saqib-portfolio-omega.vercel.app/](https://saqibdevportfolio.vercel.app/)](https://saqibdevportfolio.vercel.app/)"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-D97745?style=for-the-badge&logo=vercel&logoColor=171717" /></a>
 
 <a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/Send%20Me%20an%20Email-292522?style=for-the-badge&logo=gmail&logoColor=F3EFE6" /></a>
 
