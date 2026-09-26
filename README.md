@@ -142,24 +142,38 @@ A smart agriculture solution designed to support agricultural activities through
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&hide_border=true&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&ring_color=D97745" />
+<a href="https://github.com/Saqib-17">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saqib-17&theme=github_dark&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&chart_color=D97745"
+  />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&hide_border=true&bg_color=171717&title_color=D97745&text_color=F3EFE6" />
+<a href="https://github.com/Saqib-17">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saqib-17&theme=github_dark&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&chart_color=D97745"
+  />
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=171717&ring=D97745&fire=D97745&currStreakLabel=D97745&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=999999" />
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=171717&ring=D97745&fire=D97745&currStreakLabel=D97745&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=999999"
+/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6"
+  width="90%"
+/>
 
 </div>
 
-<br/>
 
-
-##09 / Let's Connect
+## 09 / Let's Connect
 
 I'm open to discussing software development, collaborating on projects, and exploring professional opportunities.
 
