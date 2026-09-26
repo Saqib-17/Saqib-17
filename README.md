@@ -1,286 +1,180 @@
-```markdown
+
 <div align="center">
 
-# SAQIB
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,60:292522,100:D97745&height=220&section=header&text=SAQIB&fontSize=85&fontColor:F3EFE6&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20ENGINEER%20IN%20PROGRESS&descSize=16&descAlignY=65&descColor=E7B69B" width="100%" />
 
-### MERN Stack Developer
+<br/>
 
-`React` · `Next.js` · `Node.js` · `Express` · `MongoDB`
+<img src="https://img.shields.io/badge/MERN%20STACK-DEVELOPER-D97745?style=flat-square&labelColor=292522" />
+<img src="https://img.shields.io/badge/DEV%20TEAM-CO--LEAD-292522?style=flat-square&labelColor=292522" />
+<img src="https://img.shields.io/badge/DEAN'S%20LIST-5%C3%97-D97745?style=flat-square&labelColor=292522" />
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-292522?style=flat-square&labelColor=292522" />
 
-<br>
+<br/><br/>
 
-[Portfolio](https://saqibdevportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/saqib1712/) · [GitHub](https://github.com/Saqib-17) · [Email](mailto:sakib17shahidul@gmail.com)
+<a href="https://saqib-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logo=vercel&logoColor=F3EFE6" /></a>
+<a href="https://github.com/Saqib-17"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=F3EFE6" /></a>
+<a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=D97745" /></a>
+<a href="https://www.facebook.com/SaqibMuhammad.17/"><img src="https://img.shields.io/badge/FACEBOOK-171717?style=for-the-badge&logo=facebook&logoColor=F3EFE6" /></a>
+
+<br/><br/>
+
+*Building useful things, solving problems, and learning through code.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D97745&height=2&section=header" width="100%" />
 
 </div>
 
----
+## 01 / About Me
+
+I'm **Md. Shahidul Islam Sakib**, a Computer Science and Engineering graduate-in-progress from East Delta University, Bangladesh.
+
+- **Role:** MERN Stack Developer & Development Team Co-Lead
+- **Experience:** NexGenix LTD, CUET IT Business Incubator
+- **Academic recognition:** Dean's List recipient ×5
+- **Interests:** Full-stack development, software engineering, and computer vision
+- **Currently researching:** Vehicle detection under foggy conditions
+
+I've developed and deployed 10+ full-stack applications, earned Intern of the Month recognition, and progressed to a team leadership role during my internship.
+
+<br/>
+
+## 02 / Experience
+
+### MERN Stack Developer → Development Team Co-Lead
+**NexGenix LTD · CUET IT Business Incubator**
+
+`Nov 2025 – Mar 2026`
+
+- Promoted to Development Team Co-Lead within two months.
+- Recognized as Intern of the Month.
+- Developed and deployed 10+ full-stack applications using the MERN stack and Next.js.
+- Worked on frontend architecture, API integration, backend functionality, and deployment.
+
+<br/>
+
+## 03 / Selected Work
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-### PROFILE
+### 🎓 Undergraduate Thesis
 
-```text
-NAME        Md. Shahidul Islam Sakib
-ROLE        MERN Stack Developer
-LOCATION    Chattogram, Bangladesh
+**Multi-Stage Vehicle Detection Under Foggy Conditions**
 
-BUILDING    Full-Stack Applications
-WORKING     React / Next.js / Node.js
-RESEARCH    Computer Vision
+A comparative study of YOLOv8s and YOLOv10s for vehicle detection in foggy environments.
 
-CURRENT     Development Team Co-Lead
-```
+- Model training and comparison
+- Precision, recall, and mAP evaluation
+- Computer vision and object detection
+
+`Python` `YOLOv8` `YOLOv10` `Computer Vision`
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-### STATUS
+### 🌐 Aspire Internship Portal
 
-```text
-● AVAILABLE
+An official public-facing internship portal.
 
-MERN        ██████████
-NEXT.JS     ████████░░
-BACKEND     ████████░░
-COMPUTER CV ██████░░░░
-```
+- Built the frontend and integrated APIs
+- Developed and deployed the website
+- Focused on responsive UI and functionality
+
+`Next.js` `React` `Tailwind CSS` `EmailJS`
 
 </td>
 </tr>
-</table>
-
----
-
-## `01` / ABOUT
-
-I'm **Md. Shahidul Islam Sakib**, a **MERN Stack Developer** focused on building practical, scalable and user-friendly web applications.
-
-I work primarily with the **MERN ecosystem**, Next.js and modern frontend technologies. I also explore computer vision through academic research.
-
-### CURRENTLY
-
-`Full-Stack Development` · `React / Next.js` · `REST APIs` · `MongoDB / Firebase` · `Computer Vision` · `Object Detection`
-
-I've developed and deployed **10+ full-stack applications** and currently work as a **Development Team Co-Lead** at NexGenix LTD.
-
----
-
-## `02` / EXPERIENCE
-
-<table>
 <tr>
-<td width="18%" valign="top">
-
-### 2025
-### ↓
-### 2026
-
-</td>
-
-<td width="82%" valign="top">
-
-### NEXGENIX LTD
-
-**MERN Stack Developer → Development Team Co-Lead**
-
-`CUET IT Business Incubator`
-
-```text
-01  Developed and deployed 10+ full-stack applications
-02  Worked with MERN stack and Next.js
-03  Built frontend interfaces and integrated APIs
-04  Worked on backend functionality and deployment
-05  Promoted to Development Team Co-Lead within two months
-06  Recognized as Intern of the Month
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` / REPOSITORIES
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
-### `01` — QUIZWHIZ
+### 🧠 [QuizWhiz](https://quiz-whiz-frontend.vercel.app/)
 
-Educational quiz platform with interactive learning experiences.
+An educational quiz platform with web and mobile experiences.
 
-**BUILD**
+- Interactive quiz-based learning
+- Subject-based question sets
+- User authentication and backend functionality
 
-`React` · `Node.js` · `Express`  
-`MongoDB` · `Firebase`
+`React` `Node.js` `Express` `MongoDB` `Firebase`
 
-**LINKS**
-
-[Frontend →](https://quiz-whiz-frontend.vercel.app/)  
-[Backend →](https://quiz-whiz-backend.vercel.app/)
+[Frontend](https://quiz-whiz-frontend.vercel.app/) · [Backend](https://quiz-whiz-backend.vercel.app/)
 
 </td>
-
 <td width="50%" valign="top">
 
-### `02` — AGRISHIELD
+### 🌱 [AgriShield](https://agri-shield-xi.vercel.app/)
 
-Smart agriculture solution designed to support agricultural activities through a web-based platform.
+A smart agriculture solution designed to support agricultural activities through a web-based platform.
 
-**BUILD**
+`Next.js` `React` `Tailwind CSS` `Firebase`
 
-`Next.js` · `React`  
-`Tailwind CSS` · `Firebase`
-
-**LINK**
-
-[Live Project →](https://agri-shield-xi.vercel.app/)
+[Explore project](https://agri-shield-xi.vercel.app/)
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `03` — ASPIRE
-
-Official public-facing internship portal.
-
-**BUILD**
-
-`Next.js` · `React`  
-`Tailwind CSS` · `EmailJS`
-
-**FOCUS**
-
-Frontend development · API integration · Responsive UI · Deployment
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04` — SMART STREET LIGHT
-
-Sensor-based automatic lighting system.
-
-**BUILD**
-
-`Arduino Nano` · `IR Sensor` · `Relay`
-
-**FOCUS**
-
-Automation · Embedded systems · Sensor-based control
-
-</td>
-
 </tr>
 </table>
 
 <details>
-<summary><b>+ MORE REPOSITORIES</b></summary>
+<summary><b>More projects</b></summary>
 
-<br>
-
-| Repository | Description | Technologies |
+| Project | Description | Technologies |
 |---|---|---|
-| [Green Earth](https://green-earth-ebon.vercel.app/) | Environmental awareness and sustainability | React · Tailwind CSS |
+| [Green Earth](https://green-earth-ebon.vercel.app/) | Environmental awareness and sustainability | React, Tailwind CSS |
 | [Flower Mart](https://flower-mart.netlify.app/) | Responsive flower e-commerce website | React |
+| Smart Street Light | Sensor-based automatic lighting system | Arduino Nano, IR sensor, relay |
 | Fitness Center Member System | Menu-driven member management application | C++ |
 
 </details>
 
----
+<br/>
 
-## `04` / STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,mongodb,firebase,git,github,vercel,netlify,figma,c,cpp,html,css&perline=9" />
-
-</div>
-
-<br>
-
-| AREA | TECHNOLOGIES |
-|---|---|
-| **FRONTEND** | React.js · Next.js · Tailwind CSS · DaisyUI |
-| **BACKEND** | Node.js · Express.js · REST APIs |
-| **DATABASE** | MongoDB · Firebase |
-| **LANGUAGES** | JavaScript · C · C++ |
-| **TOOLS** | Git · GitHub · Figma · Vercel · Netlify · cPanel |
-
----
-
-## `05` / RESEARCH
-
-<table>
-<tr>
-
-<td width="68%" valign="top">
-
-### MULTI-STAGE VEHICLE DETECTION
-
-**Undergraduate Thesis**
-
-A comparative study of **YOLOv8s** and **YOLOv10s** for vehicle detection under foggy environmental conditions.
-
-**RESEARCH**
-
-`Computer Vision` · `Object Detection`  
-`Model Training` · `Model Comparison`
-
-**MODELS**
-
-`YOLOv8s` → `YOLOv10s`
-
-</td>
-
-<td width="32%" valign="middle" align="center">
-
-```text
-┌─────────────┐
-│   YOLOv8s   │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   YOLOv10s  │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│    FOG      │
-│ CONDITIONS  │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   VEHICLE   │
-│  DETECTION  │
-└─────────────┘
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `06` / GITHUB ACTIVITY
+## 04 / Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=111111" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555" />
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=555555&dates=888888" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,mongodb,firebase,git,github,vercel,netlify,figma,c,cpp,html,css&perline=9&theme=dark" />
 
 </div>
-```
+
+## 07 / GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saqib-17&show_icons=true&hide_border=true&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&ring_color=D97745" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-17&layout=compact&hide_border=true&bg_color=171717&title_color=D97745&text_color=F3EFE6" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=171717&ring=D97745&fire=D97745&currStreakLabel=D97745&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=999999" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+
+## 09 / Let's Connect
+
+I'm open to discussing software development, collaborating on projects, and exploring professional opportunities.
+
+<div align="center">
+
+<a href="https://saqib-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-D97745?style=for-the-badge&logo=vercel&logoColor=171717" /></a>
+
+<a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/Send%20Me%20an%20Email-292522?style=for-the-badge&logo=gmail&logoColor=F3EFE6" /></a>
+
+<br/><br/>
+
+*"Consistency beats talent when talent doesn't work hard."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,60:292522,100:D97745&height=130&section=footer" width="100%" />
+
+</div>
