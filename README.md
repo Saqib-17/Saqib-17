@@ -27,10 +27,6 @@
 
 ## 01 / About Me
 
-```bash
-$ whoami
-```
-
 I'm **Md. Shahidul Islam Sakib**, a Computer Science and Engineering graduate-in-progress from East Delta University, Bangladesh.
 
 - **Role:** MERN Stack Developer & Development Team Co-Lead
@@ -141,20 +137,6 @@ A smart agriculture solution designed to support agricultural activities through
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,mongodb,firebase,git,github,vercel,netlify,figma,c,cpp,html,css&perline=9&theme=dark" />
 
 </div>
-
-### What I work with
-
-| Area | Technologies |
-|---|---|
-| Frontend | React.js, Next.js, Tailwind CSS, DaisyUI |
-| Backend | Node.js, Express.js, MongoDB, Firebase |
-| Languages | JavaScript, C, C++ |
-| Tools | Git, GitHub, Figma, REST APIs |
-| Deployment | Vercel, Netlify, cPanel |
-| Other | Responsive design, API integration, MS Office, Google Workspace |
-
-<br/>
-
 
 ## 07 / GitHub Analytics
 
