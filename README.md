@@ -138,21 +138,21 @@ A smart agriculture solution designed to support agricultural activities through
 
 </div>
 
-## 07 / GitHub Analytics
+## 05 / GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Saqib-17">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saqib-17&theme=github_dark&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&chart_color=D97745"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saqib-17&theme=github_dark&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&border_color=292522&chart_color=D97745"
   />
 </a>
 
 <a href="https://github.com/Saqib-17">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saqib-17&theme=github_dark&bg_color=171717&title_color=D97745&text_color=F3EFE6&icon_color=D97745&chart_color=D97745"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saqib-17&theme=github_dark&bg_color=292522&title_color=D97745&text_color=F3EFE6&icon_color=D97745&border_color=D97745&chart_color=D97745"
   />
 </a>
 
@@ -160,20 +160,20 @@ A smart agriculture solution designed to support agricultural activities through
 
 <img
   width="70%"
-  src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=171717&ring=D97745&fire=D97745&currStreakLabel=D97745&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=999999"
+  src="https://streak-stats.demolab.com?user=Saqib-17&hide_border=true&background=171717&ring=D97745&fire=D97745&currStreakLabel=D97745&sideLabels=E7B69B&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=999999"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6"
   width="90%"
+  src="https://github-profile-trophy.vercel.app/?username=Saqib-17&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"
 />
 
 </div>
 
 
-## 09 / Let's Connect
+## 06 / Let's Connect
 
 I'm open to discussing software development, collaborating on projects, and exploring professional opportunities.
 
