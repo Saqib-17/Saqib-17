@@ -29,7 +29,7 @@
 
 I'm **Md. Shahidul Islam Sakib**, a Computer Science and Engineering graduate from East Delta University, Bangladesh.
 
-- **Role:** MERN Stack Developer & Development Team Co-Lead
+- **Role:** MERN Stack Developer
 - **Professional experience:** Former MERN Stack Developer & Development Team Co-Lead at NexGenix LTD, CUET IT Business Incubator
 - **Recognition:** Dean's List recipient ×5 · Intern of the Month
 - **Experience:** Developed and deployed 10+ full-stack applications using MERN stack and Next.js
