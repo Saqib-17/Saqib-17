@@ -27,31 +27,21 @@
 
 ## 01 / About Me
 
-I'm **Md. Shahidul Islam Sakib**, a Computer Science and Engineering graduate-in-progress from East Delta University, Bangladesh.
+I'm **Md. Shahidul Islam Sakib**, a Computer Science and Engineering graduate from East Delta University, Bangladesh.
 
 - **Role:** MERN Stack Developer & Development Team Co-Lead
-- **Experience:** NexGenix LTD, CUET IT Business Incubator
-- **Academic recognition:** Dean's List recipient ×5
+- **Professional experience:** Former MERN Stack Developer & Development Team Co-Lead at NexGenix LTD, CUET IT Business Incubator
+- **Recognition:** Dean's List recipient ×5 · Intern of the Month
+- **Experience:** Developed and deployed 10+ full-stack applications using MERN stack and Next.js
 - **Interests:** Full-stack development, software engineering, and computer vision
-- **Currently researching:** Vehicle detection under foggy conditions
+- **Completed research:** Multi-stage vehicle detection under foggy conditions using YOLOv8s and YOLOv10s
 
-I've developed and deployed 10+ full-stack applications, earned Intern of the Month recognition, and progressed to a team leadership role during my internship.
+During my internship at **NexGenix LTD**, I progressed from MERN Stack Developer to **Development Team Co-Lead within two months**, working across frontend architecture, API integration, backend functionality, and deployment.
 
-<br/>
-
-## 02 / Experience
-
-### MERN Stack Developer → Development Team Co-Lead
-**NexGenix LTD · CUET IT Business Incubator**
-
-`Nov 2025 – Mar 2026`
-
-- Promoted to Development Team Co-Lead within two months.
-- Recognized as Intern of the Month.
-- Developed and deployed 10+ full-stack applications using the MERN stack and Next.js.
-- Worked on frontend architecture, API integration, backend functionality, and deployment.
+My undergraduate research focused on **vehicle detection under foggy conditions**, comparing YOLOv8s and YOLOv10s using precision, recall, and mAP evaluation.
 
 <br/>
+
 
 ## 03 / Selected Work
 
