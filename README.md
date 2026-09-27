@@ -12,7 +12,9 @@
 
 <br/><br/>
 
-<a href="[https://saqib-portfolio-omega.vercel.app/](https://saqibdevportfolio.vercel.app/)"><img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logo=vercel&logoColor=F3EFE6" /></a>
+<a href="https://saqibdevportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logo=vercel&logoColor=F3EFE6" alt="Portfolio" />
+</a>
 <a href="https://github.com/Saqib-17"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=F3EFE6" /></a>
 <a href="mailto:sakib17shahidul@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=D97745" /></a>
 <a href="https://www.facebook.com/SaqibMuhammad.17/"><img src="https://img.shields.io/badge/FACEBOOK-171717?style=for-the-badge&logo=facebook&logoColor=F3EFE6" /></a>
